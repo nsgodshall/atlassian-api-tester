@@ -4,7 +4,7 @@
     - PowerShell: ```\venv\Scripts\activate.ps1``` 
  
     - bash: ```source /venv/bin/activate```
-`
+
 3. run
 ```python -m pip install -r requirements.txt```
 4. Create a copy of `.env.example` named `.env`
