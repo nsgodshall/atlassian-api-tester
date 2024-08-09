@@ -1,11 +1,9 @@
 1. create virtual environment 
 ```python -m venv venv```
 2. activate virtual environment 
-PowerShell:
-```\venv\Scripts\activate.ps1``` 
-or 
-bash:
-```source /venv/bin/activate```
+    - PowerShell: ```\venv\Scripts\activate.ps1``` 
+ 
+    - bash: ```source /venv/bin/activate```
 `
 3. run
 ```python -m pip install -r requirements.txt```
